@@ -87,7 +87,7 @@ function DashboardRoutes({ path }: { path: string }) {
   }, [view]);
 
   return (
-    <DashboardShell path="/dashboard" currentPath={path} title={title}>
+    <DashboardShell currentPath={path} title={title}>
       {view === "home" && <DashboardHome />}
       {view === "events" && <EventsView />}
       {view === "create" && <CreateEventView />}

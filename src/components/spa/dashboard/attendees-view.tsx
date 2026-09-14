@@ -8,7 +8,9 @@ import { Input } from "@/components/ui/input";
 import { useSparkStore } from "@/lib/spa/store";
 import type { Registration } from "@/lib/spa/types";
 
-function toCsv(rows: Array<Registration & { eventName: string }>): string {
+function toCsv(
+  rows: Array<Registration & { eventName: string; tierName?: string }>
+): string {
   const header = "name,email,event,tier,quantity,status,checked_in,registered_at";
   const escape = (value: string) =>
     /[",\n]/.test(value) ? `"${value.replace(/"/g, '""')}"` : value;
