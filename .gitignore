@@ -52,3 +52,16 @@ prompt
 server.log
 # Skills directory
 /skills/
+# sandbox session artifacts (not part of the product)
+/tmp/
+/tool-results/
+/upload/
+/download/
+/.zscripts/
+/examples/
+/mini-services/
+/scripts/
+/db/
+/tests/
+Caddyfile
+worklog.md
