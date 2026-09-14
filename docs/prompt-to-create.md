@@ -709,7 +709,7 @@ exactly what remains and what was intentionally deferred.
 
 Now, please meticulously plan to create a complete, fully functioning, production-ready and enterprise-grade polished website that is a clone of `https://event-spark-2.lovable.app/`. Use the codebase from GitHub repo `https://github.com/nordeim/home-financing.git` as the foundation to build your awesome clone of `https://event-spark-2.lovable.app/`. There are also skills in the `skills/` folder in the `https://github.com/nordeim/home-financing.git` repo codebase that may be relevant and helpful (refer to `https://github.com/nordeim/home-financing/blob/main/skills/skills-catalog.md` to find relevant skills for help in building an awesome clone of `https://event-spark-2.lovable.app/`)
 
-Next, please `git commit` and then `git push` the root of the new codebase to my GitHub repo `git@github.com:nordeim/design-brand-strategy.git` using the attached ssh key and wrapper script. refer to the attached `how-to-git-push-using-ssh-wrapper_SKILL.md` for instruction to use ssh wrapper script for `git push`.
+Next, please `git commit` and then `git push` the root of the new codebase to my GitHub repo `git@github.com:nordeim/event-spark.git` using the attached ssh key and wrapper script. refer to the attached `how-to-git-push-using-ssh-wrapper_SKILL.md` for instruction to use ssh wrapper script for `git push`.
 
 Next, please meticulously plan to create `AGENTS.md`, `CLAUDE.md`, `README.md` and `Project_Architecture_Document.md` for the new codebase using the respective skills:
 
